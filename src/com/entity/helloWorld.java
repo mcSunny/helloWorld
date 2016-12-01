@@ -8,5 +8,8 @@ public class helloWorld {
         System.out.println("我的第一个程序");
         System.out.println("这是我改动的地方，commit");
         System.out.println("这是我改动的地方，tijiaotijiao");
+        System.out.println("我的第一个程序");
+        System.out.println("这是我改动的地方，commit");
+        System.out.println("这是我改动的地方，tijiaotijiao");
     }
 }
